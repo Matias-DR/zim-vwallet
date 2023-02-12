@@ -3,10 +3,11 @@
 ## Requerimientos iniciales
 
 #### 1. Usuario:
-  - - [ ] 1.1 Se debe poder definirse un usario con los datos típicos de una persona física y siempre tiene que estar vinculado a un fondo.
-  - - [ ] 1.2 Se debe poder darse de alta un usuario.
-  - - [ ] 1.3 Se debe poder bloquear y desbloquear un usuario.
-  - - [ ] 1.4 La aplicación debe permitir visualizar los datos del usuario, y editar todos, menos los datos únicos como CVU o DNI.
+  - - [ ] 1.1 Se debe poder registrar un usario con los datos típicos de una persona física
+  - - [ ] 1.2 Se debe poder dar de alta un usuario.
+  - - [ ] 1.3 Un usuario debe darse de alta junto con el alta de su cuenta y estos se deben vincular
+  - - [ ] 1.4 Se debe poder bloquear y desbloquear un usuario.
+  - - [ ] 1.5 La aplicación debe permitir visualizar los datos del usuario, y editar todos, menos los datos únicos como CVU o DNI.
   - - [ ] 1.5 Cada usuario puede conocer a otros usuarios, agregándolos a su lista de conocidos, eliminarlos, y asignarles un alias personalizado para su identificación en la lista de conocidos.
   - - [ ] 1.6 Cada usuario debe contar con un estado bancario "común" cuando no tiene números en rojo, y "deudor" en caso contrario.
   - - [ ] 1.7 Cada usuario debe contar con una lista de notificaciones la cuál indica los diferentes eventos relacionados con lass acciones del usuario (transacciones salientes, modificaciones de datos, etc) u otros como transacciones entrantes.
