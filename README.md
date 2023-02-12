@@ -1,6 +1,6 @@
 # ZIM.VWallet
 
-## Requerimientos de la aplicación
+## Requerimientos iniciales
 
 #### 1. Usuario
   - 1.1 Se debe poder definirse un usario con los datos típicos de una persona física y siempre tiene que estar vinculado a un fondo
