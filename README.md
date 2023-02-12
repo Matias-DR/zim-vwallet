@@ -27,9 +27,9 @@
     - - [ ] 2.1.4.2 Debe permitir al usuario filtrar sus transacciones por fecha, categoría y tipo
     - - [ ] 2.1.4.3 Debe ofrecer funciones matemáticas tales como promedio, mayor y menor transacción, cantidad de transacciones en el tiempo, cantidad de transacciones por destino (en el caso de salientes) y orígen (en el caso de entrantes), siempre teniendo en cuenta el posible filtro definido por el usuario
 
-  - - [ ] 2.2 Gráficos y estadísticas: La aplicación debe proporcionar gráficos y estadísticas detalladas sobre el uso del saldo y las transacciones, para ayudar al usuario a tener una mejor comprensión de sus gastos y ahorros.
-    - - [ ] 2.2.1 Gráficos estadísticos:
-      - - [ ] 2.2.1.1 Debe imprimir los cálculos matemáticos ofrecidos por la lista de transacciones (2.1.4.3) representándolos con gráficos tales como "polígono de frecuencias", "diagrama de disperción", "ojiva" etc. Fuente: [Tipos de gráficoss estadísticos](https://www.probabilidadyestadistica.net/tipos-de-graficos-estadisticos/#histograma)
+- - [ ] 2.2 Gráficos y estadísticas: La aplicación debe proporcionar gráficos y estadísticas detalladas sobre el uso del saldo y las transacciones, para ayudar al usuario a tener una mejor comprensión de sus gastos y ahorros.
+  - - [ ] 2.2.1 Gráficos estadísticos:
+    - - [ ] 2.2.1.1 Debe imprimir los cálculos matemáticos ofrecidos por la lista de transacciones (2.1.4.3) representándolos con gráficos tales como "polígono de frecuencias", "diagrama de disperción", "ojiva" etc. Fuente: [Tipos de gráficoss estadísticos](https://www.probabilidadyestadistica.net/tipos-de-graficos-estadisticos/#histograma)
 
 #### 3. Exportación de datos:
   - - [ ] 3.1 La aplicación debe permitir a los usuarios exportar sus transacciones y estadísticas a diferentes formatos, comoo CSV, Excel, PDF, etc., para su uso posterior.
