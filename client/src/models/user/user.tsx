@@ -1,10 +1,10 @@
 type User = {
-    name: string,
+    firstname: string,
     lastname: string,
     id: number,
     birthdate: string,
     email: string,
-    phone: string,
+    tel: string,
     country: string,
     state: string,
     city: string,
