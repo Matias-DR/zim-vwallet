@@ -1,9 +1,10 @@
-import SignUp from "./pages/controllers/signup/signup";
+import { FC } from "react";
+import CSignUp from 'src/modules/auth/controllers/c-signup'
 
-export default function App() {
-    return (
-        <div className="container">
-            <SignUp />
-        </div>
-    );
-}
+const App: FC = () => (
+    <div className='container'>
+        <CSignUp />
+    </div>
+);
+
+export default App;
